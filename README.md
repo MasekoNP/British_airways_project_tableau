@@ -28,14 +28,9 @@ The dashboard provides an overview of customer experience indicators, allowing s
 
 https://github.com/MasekoNP/British_airways_project_tableau/blob/152c5409cb4006a62e8d2bcb91fd83e2ae0e8352/British%20Airways%20Dashboard%20Screenshot.PNG
 
-*Replace the placeholder above with a screenshot of your Tableau dashboard.*
-
 ### Explore the Interactive Dashboard
 
-**[VIEW LIVE INTERACTIVE DASHBOARD](INSERT-TABLEAU-PUBLIC-LINK-HERE)**
-
-*If the dashboard is not yet published, upload it to Tableau Public and replace the placeholder with your published dashboard URL.*
-
+https://github.com/MasekoNP/British_airways_project_tableau/blob/9786cfbd9dd7e6b3cbce96fb990e790438e39ce4/British%20Airways%20dashboard.twbx
 ## 3. Data Source & Preparation
 
 ### Data Sources
