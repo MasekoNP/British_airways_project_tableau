@@ -26,7 +26,7 @@ The dashboard provides an overview of customer experience indicators, allowing s
 
 ## 2. Dashboard Preview
 
-![British Airways Dashboard Preview](link-to-dashboard-screenshot.png)
+https://github.com/MasekoNP/British_airways_project_tableau/blob/152c5409cb4006a62e8d2bcb91fd83e2ae0e8352/British%20Airways%20Dashboard%20Screenshot.PNG
 
 *Replace the placeholder above with a screenshot of your Tableau dashboard.*
 
