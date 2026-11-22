@@ -28,9 +28,6 @@ The dashboard provides an overview of customer experience indicators, allowing s
 
 https://github.com/MasekoNP/British_airways_project_tableau/blob/152c5409cb4006a62e8d2bcb91fd83e2ae0e8352/British%20Airways%20Dashboard%20Screenshot.PNG
 
-British Airways Dashboard Screenshot.PNG
-
-
 ### Explore the Interactive Dashboard
 
 https://github.com/MasekoNP/British_airways_project_tableau/blob/9786cfbd9dd7e6b3cbce96fb990e790438e39ce4/British%20Airways%20dashboard.twbx
