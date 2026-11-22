@@ -194,7 +194,7 @@ This project demonstrates practical experience in:
 5. Refresh the data connections if necessary.
 6. Explore the dashboard and its interactive functionality.
 
-**Note:** The uploaded workbook is a `.twb` file, which stores Tableau workbook definitions rather than packaging the underlying data. A `.twbx` packaged workbook can be used to distribute the workbook together with its supporting data and resources, subject to applicable data-sharing permissions.
+**Note:** The uploaded workbook is `.twb` file, which stores Tableau workbook definitions rather than packaging the underlying data. A `.twbx` packaged workbook can be used to distribute the workbook together with its supporting data and resources, subject to applicable data-sharing permissions.
 
 ## 9. Repository Structure
 
@@ -213,8 +213,6 @@ British-Airways-Customer-Analytics/
 └── README.md
 ```
 
-*The repository structure above is a recommended organization. Include the dataset files only if you have permission to redistribute them.*
-
 ## 10. Project Conclusion
 
 This project demonstrates how customer review data can be transformed into an interactive business intelligence solution.
@@ -225,12 +223,8 @@ Beyond visualization, the project highlights the role of data analytics in ident
 
 ---
 
-**Author:** [Your Name]
+**Author:** Ndadlana Piet Maseko
 
 **Tools:** Tableau | Data Analytics | Data Visualization
 
 **Project Category:** Business Intelligence & Customer Experience Analytics
-
-**GitHub:** [Your GitHub Profile](INSERT-GITHUB-PROFILE-LINK)
-
-**Tableau Public:** [View My Tableau Portfolio](INSERT-TABLEAU-PUBLIC-PROFILE-LINK)
